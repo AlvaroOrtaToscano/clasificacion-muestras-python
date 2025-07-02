@@ -126,18 +126,9 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 
 Para utilizar el proyecto:
 
-1. Clona este repositorio:
+1. Descarga el archivo "Clasificacion_550muestras.ipynb"
 
-```bash
-git clone https://github.com/AlvaroOrtaToscano/clasificacion-muestras-python.git
-```
-
-2. Abre el notebook en Jupyter:
-
-```bash
-cd clasificacion-muestras-python
-jupyter notebook clasificacion_muestras.ipynb
-```
+2. Abre el notebook en Jupyter
 
 3. Ejecuta celda a celda siguiendo las instrucciones y análisis detallados.
 
@@ -156,3 +147,4 @@ jupyter notebook clasificacion_muestras.ipynb
 Álvaro Orta Toscano
 Correo: [alvaroortatoscano2006@gmail.com](mailto:alvaroortatoscano2006@gmail.com)
 GitHub: [AlvaroOrtaToscano](https://github.com/AlvaroOrtaToscano)
+Linkdln: (www.linkedin.com/in/álvaro-orta-toscano-295b87372)
